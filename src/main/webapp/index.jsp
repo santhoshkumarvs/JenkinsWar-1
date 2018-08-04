@@ -1,4 +1,7 @@
 <html>
+  <head>
+  <title>Try your Luck</title>
+    </head>
 <body>
   <h2>Successfully Deployed War file....</h2>
   <%
