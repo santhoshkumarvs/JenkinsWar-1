@@ -2,7 +2,7 @@
 <html>
 <head>
   <title>
-    Try Your Luck!!!
+    Try Your Luck.... Now!!!
   </title>
   
   </head>
