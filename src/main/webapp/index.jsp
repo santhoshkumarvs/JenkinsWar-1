@@ -1,9 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>
-    Try Your Luck.... Now!!!
-  </title>
+ 
   
   </head>
 <body>
