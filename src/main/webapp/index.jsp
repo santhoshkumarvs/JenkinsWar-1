@@ -10,7 +10,7 @@
   <h2>Successfully Deployed War file....</h2>
   <%
     double num = Math.random();
-    if (num > 0.7) {
+    if (num > 0.6) {
   %>
       <h2>You'll have a luck day!</h2><p>(<%= num %>)</p>
   <%
