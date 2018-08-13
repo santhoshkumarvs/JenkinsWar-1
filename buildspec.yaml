@@ -9,4 +9,4 @@ phases:
       - mvn package
 artifacts:
   files:
-    - target/JenkinsWar.war
+    - 'target/JenkinsWar.war'
