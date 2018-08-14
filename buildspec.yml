@@ -8,6 +8,9 @@ phases:
     commands:
       - echo Build completed on 'date'
       - mvn package
+      - mv target/JenkinsWar.war JenkinsWar.war
 artifacts:
   files:
     - '**/*.war'
+    artifacts:
+      - .ebextensions/**/*
