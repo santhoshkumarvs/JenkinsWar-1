@@ -4,7 +4,9 @@
 
   </head>
 <body>
+<h1>Deployment Status:</h1>
   <h2>Successfully Deployed War file....</h2>
+  
   <%
     double num = Math.random();
     if (num > 0.7) {
