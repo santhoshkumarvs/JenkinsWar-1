@@ -1,7 +1,3 @@
-
-<html>
-<head>
-
   </head>
 <body>
 <h1>Deployment Status:</h1>
